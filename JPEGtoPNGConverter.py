@@ -1,3 +1,6 @@
+"""
+    This will convert the JPEG to PNG and then save the image with PNG.
+"""
 import sys
 import os
 from PIL import Image
